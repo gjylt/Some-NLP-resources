@@ -7,6 +7,17 @@ This is a list of  some NLP resources I found.
 
 ## Project
 
-- specch recognition/n
-  1.[speech_recognition](https://github.com/Uberi/speech_recognition)
+- specch recognition
+
+-- [speech_recognition](https://github.com/Uberi/speech_recognition)
+
+```flow
+st=>start: 开始
+op=>operation: My Operation
+cond=>condition: Yes or No?
+e=>end
+st->op->cond
+cond(yes)->e
+cond(no)->op
+&```
 
