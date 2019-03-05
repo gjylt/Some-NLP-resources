@@ -7,6 +7,6 @@ This is a list of  some NLP resources I found.
 
 ## Project
 
-1.specch recognition
-  [speech_recognition](https://github.com/Uberi/speech_recognition)
+- specch recognition/n
+  1.[speech_recognition](https://github.com/Uberi/speech_recognition)
 
